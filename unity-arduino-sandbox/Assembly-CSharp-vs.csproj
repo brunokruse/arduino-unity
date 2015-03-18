@@ -47,6 +47,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\AnalogIn.cs" />
+     <Compile Include="Assets\Scripts\AnalogInAdv.cs" />
+     <Compile Include="Assets\Scripts\BallGame\GameLoop.cs" />
+     <Compile Include="Assets\Scripts\BallGame\RollBall.cs" />
+     <Compile Include="Assets\Scripts\BallGame\RollBallAdv.cs" />
+     <Compile Include="Assets\Scripts\Cameras\DungeonCamera.cs" />
+     <Compile Include="Assets\Scripts\Cameras\FollowCamera.cs" />
+     <Compile Include="Assets\Scripts\Cameras\LookAtCamera.cs" />
+     <Compile Include="Assets\Scripts\Cameras\MouseAimCamera.cs" />
      <Compile Include="Assets\Scripts\SerialWrite.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
